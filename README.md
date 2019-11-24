@@ -3,10 +3,10 @@
 Due: November 1, 2019 @ 11:59PM
 
 <h2>Introduction</h2>
-This assignment is an introduction to MongoDb. MongoDb is a document-based database... 
+This assignment is an introduction to MongoDb. MongoDb is a document-based database... It is interesting
 
 <h2>Assignment</h2>
-In this assignment, you will be tasked with inserting and querying data from MongoDb. 
+In this assignment, you will be tasked with inserting and querying data from MongoDb. Lab 02 1050
 
 <h3>Part 1</h3>
 Fill in the necessary TODOs in etl.py
@@ -20,4 +20,4 @@ Fill in the necessary TODOs in query.py
 
 We will be grading you on the accuracy of your queries.
 
-
+ 
